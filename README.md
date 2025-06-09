@@ -40,7 +40,7 @@ npm run dev
 yarn dev
 ```
 .env
-MONGO_URI=mongodb+srv://admin:admin@notour.ihasugb.mongodb.net/CarDB
+MONGO_URI=
 STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
 NEXT_PUBLIC_API_URL=http://localhost:3000
