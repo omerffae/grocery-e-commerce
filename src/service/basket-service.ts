@@ -52,8 +52,8 @@ const checkoutSingleItem = async (
     quantity,
     customerInfo: {
       userId,
-      name: "Furkan Evin",
-      phone: "532 123 45 67",
+      name: "Ömer Ekin",
+      phone: "424 242 42 42",
       deliveryAddress: "123 Main St, Anytown, USA",
       isDelivery: true,
     },
@@ -76,8 +76,8 @@ const checkoutAllItems = async (): CheckoutSingleItemResponse => {
     userId,
     customerInfo: {
       userId,
-      name: "Furkan Evin",
-      phone: "532 123 45 67",
+      name: "Ömer Ekin",
+      phone: "424 242 42 42",
       deliveryAddress: "123 Main St, Anytown, USA",
       isDelivery: true,
     },
